@@ -1,6 +1,6 @@
 {
-    "name": "react-lazy-image",
-    "version": "1.0.0",
+    "name": "rc-lazy-image",
+    "version": "1.0.1",
     "description": "lazy load image component based on react",
     "main": "dist/bundle.js",
     "scripts": {
